@@ -14,7 +14,7 @@ While exploring our data, we calculated the growth rate of cases and graphed it 
 
 We then made predictions using Linear Regression on cases for some important upcoming dates: Labor Day, Elections Day, Thanksgiving, and Christmas. Predictions were made for the region as a whole as well as each of the 6 states in the region.
 
-![Cases and Predictions](/readme_images/caes_and_predictions.png)
+![Cases and Predictions](/readme_images/cases_and_predictions.png)
 
 ## Moving Forward
 
